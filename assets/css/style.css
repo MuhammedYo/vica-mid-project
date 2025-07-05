@@ -1559,6 +1559,7 @@ main {
             }
 
             .small-screen-button {
+                margin-top: 25px;
                 display: block;
             }
 
